@@ -1,8 +1,5 @@
 package assingnofjava2024;
 
-//public class Account {
-//
-//}
 import java.util.ArrayList;
 import java.util.Date;
 

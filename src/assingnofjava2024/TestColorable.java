@@ -1,9 +1,5 @@
 package assingnofjava2024;
 
-//public class TestColorable {
-//
-//}
-
 //Colorable interface
 interface Colorable {
  void howToColor();
